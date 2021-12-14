@@ -15,7 +15,7 @@ namespace Ateo_API.Controllers
     {
         private readonly AteoContext _ateoContext;
         private readonly ILogger<PersonsController> _logger;
-
+        
         public PersonsController(AteoContext ateoContext,ILogger<PersonsController> logger)
         {
             _ateoContext = ateoContext;

@@ -60,4 +60,3 @@ C:\Users\360_Corporate_1\source\repos\Ateo API\bin\Debug\net5.0\Microsoft.Entity
 C:\Users\360_Corporate_1\source\repos\Ateo API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
 C:\Users\360_Corporate_1\source\repos\Ateo API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
 C:\Users\360_Corporate_1\source\repos\Ateo API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
-C:\Users\360_Corporate_1\source\repos\Ateo API\obj\Debug\net5.0\Ateo API.csproj.AssemblyReference.cache
